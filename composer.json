@@ -1,0 +1,17 @@
+{
+    "name": "hexlet/code",
+    "bin": ["bin/brain-games"],
+    "description": "Hexlet project",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julia Khvatova",
+            "email": "jkhvatova@gmail.com"
+        }
+    ],
+    "require": {}
+}
